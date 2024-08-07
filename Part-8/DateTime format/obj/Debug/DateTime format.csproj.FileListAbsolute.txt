@@ -1,0 +1,7 @@
+G:\C#program\C-sharp-prog\Part-8\DateTime format\bin\Debug\DateTime format.exe.config
+G:\C#program\C-sharp-prog\Part-8\DateTime format\bin\Debug\DateTime format.exe
+G:\C#program\C-sharp-prog\Part-8\DateTime format\bin\Debug\DateTime format.pdb
+G:\C#program\C-sharp-prog\Part-8\DateTime format\obj\Debug\DateTime format.csproj.AssemblyReference.cache
+G:\C#program\C-sharp-prog\Part-8\DateTime format\obj\Debug\DateTime format.csproj.CoreCompileInputs.cache
+G:\C#program\C-sharp-prog\Part-8\DateTime format\obj\Debug\DateTime format.exe
+G:\C#program\C-sharp-prog\Part-8\DateTime format\obj\Debug\DateTime format.pdb
