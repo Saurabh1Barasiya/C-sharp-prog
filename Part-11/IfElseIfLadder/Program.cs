@@ -33,6 +33,30 @@ namespace IfElseIfLadder
             }
             Console.ReadLine();
 
+
+
+
+
+
+
+            //if (condition1)
+            //{
+            //    // Code to execute if condition1 is true
+            //}
+            //else if (condition2)
+            //{
+            //    // Code to execute if condition2 is true
+            //}
+            //else if (condition3)
+            //{
+            //    // Code to execute if condition3 is true
+            //}
+            //else
+            //{
+            //    // Code to execute if none of the above conditions are true
+            //}
+
+
         }
     }
 }
