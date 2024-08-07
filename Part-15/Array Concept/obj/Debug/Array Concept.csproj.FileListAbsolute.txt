@@ -1,0 +1,7 @@
+G:\C#program\C-sharp-prog\Part-15\Array Concept\bin\Debug\Array Concept.exe.config
+G:\C#program\C-sharp-prog\Part-15\Array Concept\bin\Debug\Array Concept.exe
+G:\C#program\C-sharp-prog\Part-15\Array Concept\bin\Debug\Array Concept.pdb
+G:\C#program\C-sharp-prog\Part-15\Array Concept\obj\Debug\Array Concept.csproj.AssemblyReference.cache
+G:\C#program\C-sharp-prog\Part-15\Array Concept\obj\Debug\Array Concept.csproj.CoreCompileInputs.cache
+G:\C#program\C-sharp-prog\Part-15\Array Concept\obj\Debug\Array Concept.exe
+G:\C#program\C-sharp-prog\Part-15\Array Concept\obj\Debug\Array Concept.pdb
