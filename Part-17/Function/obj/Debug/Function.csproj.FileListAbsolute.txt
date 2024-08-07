@@ -1,0 +1,7 @@
+G:\C#program\C-sharp-prog\Part-17\Function\bin\Debug\Function.exe.config
+G:\C#program\C-sharp-prog\Part-17\Function\bin\Debug\Function.exe
+G:\C#program\C-sharp-prog\Part-17\Function\bin\Debug\Function.pdb
+G:\C#program\C-sharp-prog\Part-17\Function\obj\Debug\Function.csproj.AssemblyReference.cache
+G:\C#program\C-sharp-prog\Part-17\Function\obj\Debug\Function.csproj.CoreCompileInputs.cache
+G:\C#program\C-sharp-prog\Part-17\Function\obj\Debug\Function.exe
+G:\C#program\C-sharp-prog\Part-17\Function\obj\Debug\Function.pdb
