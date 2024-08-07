@@ -1,0 +1,7 @@
+G:\C#program\C-sharp-prog\Part-6\DataConvertion\bin\Debug\DataConvertion.exe.config
+G:\C#program\C-sharp-prog\Part-6\DataConvertion\bin\Debug\DataConvertion.exe
+G:\C#program\C-sharp-prog\Part-6\DataConvertion\bin\Debug\DataConvertion.pdb
+G:\C#program\C-sharp-prog\Part-6\DataConvertion\obj\Debug\DataConvertion.csproj.AssemblyReference.cache
+G:\C#program\C-sharp-prog\Part-6\DataConvertion\obj\Debug\DataConvertion.csproj.CoreCompileInputs.cache
+G:\C#program\C-sharp-prog\Part-6\DataConvertion\obj\Debug\DataConvertion.exe
+G:\C#program\C-sharp-prog\Part-6\DataConvertion\obj\Debug\DataConvertion.pdb
