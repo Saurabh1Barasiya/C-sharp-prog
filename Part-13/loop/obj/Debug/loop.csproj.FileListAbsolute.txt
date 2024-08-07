@@ -1,0 +1,7 @@
+G:\C#program\C-sharp-prog\Part-13\loop\bin\Debug\loop.exe.config
+G:\C#program\C-sharp-prog\Part-13\loop\bin\Debug\loop.exe
+G:\C#program\C-sharp-prog\Part-13\loop\bin\Debug\loop.pdb
+G:\C#program\C-sharp-prog\Part-13\loop\obj\Debug\loop.csproj.AssemblyReference.cache
+G:\C#program\C-sharp-prog\Part-13\loop\obj\Debug\loop.csproj.CoreCompileInputs.cache
+G:\C#program\C-sharp-prog\Part-13\loop\obj\Debug\loop.exe
+G:\C#program\C-sharp-prog\Part-13\loop\obj\Debug\loop.pdb
