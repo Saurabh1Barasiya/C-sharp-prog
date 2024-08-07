@@ -1,0 +1,7 @@
+G:\C#program\C-sharp-prog\Part-7\aboutConstent\bin\Debug\aboutConstent.exe.config
+G:\C#program\C-sharp-prog\Part-7\aboutConstent\bin\Debug\aboutConstent.exe
+G:\C#program\C-sharp-prog\Part-7\aboutConstent\bin\Debug\aboutConstent.pdb
+G:\C#program\C-sharp-prog\Part-7\aboutConstent\obj\Debug\aboutConstent.csproj.AssemblyReference.cache
+G:\C#program\C-sharp-prog\Part-7\aboutConstent\obj\Debug\aboutConstent.csproj.CoreCompileInputs.cache
+G:\C#program\C-sharp-prog\Part-7\aboutConstent\obj\Debug\aboutConstent.exe
+G:\C#program\C-sharp-prog\Part-7\aboutConstent\obj\Debug\aboutConstent.pdb

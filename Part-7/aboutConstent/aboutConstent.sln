@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.10.35122.118
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "aboutConstent", "aboutConstent.csproj", "{5A37F967-207C-4618-AC73-500DE9CCC687}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{5A37F967-207C-4618-AC73-500DE9CCC687}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5A37F967-207C-4618-AC73-500DE9CCC687}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5A37F967-207C-4618-AC73-500DE9CCC687}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5A37F967-207C-4618-AC73-500DE9CCC687}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {8CFC5659-F2F1-47AF-BA88-6885D33482F1}
+	EndGlobalSection
+EndGlobal
