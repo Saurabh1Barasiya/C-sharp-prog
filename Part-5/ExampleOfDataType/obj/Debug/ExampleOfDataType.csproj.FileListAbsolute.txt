@@ -1,0 +1,7 @@
+G:\C#program\C-sharp-prog\Part-5\ExampleOfDataType\bin\Debug\ExampleOfDataType.exe.config
+G:\C#program\C-sharp-prog\Part-5\ExampleOfDataType\bin\Debug\ExampleOfDataType.exe
+G:\C#program\C-sharp-prog\Part-5\ExampleOfDataType\bin\Debug\ExampleOfDataType.pdb
+G:\C#program\C-sharp-prog\Part-5\ExampleOfDataType\obj\Debug\ExampleOfDataType.csproj.AssemblyReference.cache
+G:\C#program\C-sharp-prog\Part-5\ExampleOfDataType\obj\Debug\ExampleOfDataType.csproj.CoreCompileInputs.cache
+G:\C#program\C-sharp-prog\Part-5\ExampleOfDataType\obj\Debug\ExampleOfDataType.exe
+G:\C#program\C-sharp-prog\Part-5\ExampleOfDataType\obj\Debug\ExampleOfDataType.pdb
