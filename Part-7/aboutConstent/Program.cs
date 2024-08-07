@@ -40,6 +40,31 @@ namespace aboutConstent
             // Attempting to modify a constant (uncommenting the below line will cause a compile-time error)
             // MyIntConstant = 15;
 
+
+
+
+
+
+
+            //Key Points about Constants
+
+            //Compile - Time Constants:
+            //Constants are evaluated at compile time, meaning their values are set and fixed during the compilation of the program.
+            
+            //Immutable:
+            //Once defined, the value of a constant cannot be changed.
+            //Static by Nature:
+
+            //Constants are implicitly static, meaning they belong to the type itself rather than to instances of the type.Therefore, you access constants using the class name, not an instance of the class.
+            //Scope:
+
+            //Constants can be defined at the class level or within methods.When defined at the class level, they can be public, private, protected, or internal.
+            //Only Primitive Types and Strings:
+
+            //Only primitive data types and strings can be declared as constants.
+
+
+
             Console.ReadLine();
         }
     }
