@@ -1,0 +1,7 @@
+G:\C#program\C-sharp-prog\Part-3\takingValueAndPrint\bin\Debug\takingValueAndPrint.exe.config
+G:\C#program\C-sharp-prog\Part-3\takingValueAndPrint\bin\Debug\takingValueAndPrint.exe
+G:\C#program\C-sharp-prog\Part-3\takingValueAndPrint\bin\Debug\takingValueAndPrint.pdb
+G:\C#program\C-sharp-prog\Part-3\takingValueAndPrint\obj\Debug\takingValueAndPrint.csproj.AssemblyReference.cache
+G:\C#program\C-sharp-prog\Part-3\takingValueAndPrint\obj\Debug\takingValueAndPrint.csproj.CoreCompileInputs.cache
+G:\C#program\C-sharp-prog\Part-3\takingValueAndPrint\obj\Debug\takingValueAndPrint.exe
+G:\C#program\C-sharp-prog\Part-3\takingValueAndPrint\obj\Debug\takingValueAndPrint.pdb
