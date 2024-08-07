@@ -1,0 +1,7 @@
+G:\C#program\C-sharp-prog\Part-1\PrintHelloWorld\bin\Debug\PrintHelloWorld.exe.config
+G:\C#program\C-sharp-prog\Part-1\PrintHelloWorld\bin\Debug\PrintHelloWorld.exe
+G:\C#program\C-sharp-prog\Part-1\PrintHelloWorld\bin\Debug\PrintHelloWorld.pdb
+G:\C#program\C-sharp-prog\Part-1\PrintHelloWorld\obj\Debug\PrintHelloWorld.csproj.AssemblyReference.cache
+G:\C#program\C-sharp-prog\Part-1\PrintHelloWorld\obj\Debug\PrintHelloWorld.csproj.CoreCompileInputs.cache
+G:\C#program\C-sharp-prog\Part-1\PrintHelloWorld\obj\Debug\PrintHelloWorld.exe
+G:\C#program\C-sharp-prog\Part-1\PrintHelloWorld\obj\Debug\PrintHelloWorld.pdb
