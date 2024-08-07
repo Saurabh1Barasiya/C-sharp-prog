@@ -1,0 +1,7 @@
+G:\C#program\C-sharp-prog\Part-9\IncrementDecrimentTernaryOperator\bin\Debug\IncrementDecrimentTernaryOperator.exe.config
+G:\C#program\C-sharp-prog\Part-9\IncrementDecrimentTernaryOperator\bin\Debug\IncrementDecrimentTernaryOperator.exe
+G:\C#program\C-sharp-prog\Part-9\IncrementDecrimentTernaryOperator\bin\Debug\IncrementDecrimentTernaryOperator.pdb
+G:\C#program\C-sharp-prog\Part-9\IncrementDecrimentTernaryOperator\obj\Debug\IncrementDecrimentTernaryOperator.csproj.AssemblyReference.cache
+G:\C#program\C-sharp-prog\Part-9\IncrementDecrimentTernaryOperator\obj\Debug\IncrementDecrimentTernaryOperator.csproj.CoreCompileInputs.cache
+G:\C#program\C-sharp-prog\Part-9\IncrementDecrimentTernaryOperator\obj\Debug\IncrementDecrimentTernaryOperator.exe
+G:\C#program\C-sharp-prog\Part-9\IncrementDecrimentTernaryOperator\obj\Debug\IncrementDecrimentTernaryOperator.pdb
