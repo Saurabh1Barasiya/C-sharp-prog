@@ -79,13 +79,13 @@ namespace DateTime_format
 
             DateTime now1 = DateTime.Now;
 
-            Console.WriteLine(now1.ToString("yyyy")); //2024
-            Console.WriteLine(now1.ToString("yyyy-MM-dd")); // Custom format: year-month-day
-            Console.WriteLine(now1.ToString("dd/MM/yyyy")); // Custom format: day/month/year
-            Console.WriteLine(now1.ToString("MMMM dd, yyyy")); // Custom format: full month name day, year
-            Console.WriteLine(now1.ToString("ddd, dd MMM yyyy HH:mm:ss")); // Custom format: abbreviated day, day abbreviated month year hour:minute:second
-            Console.WriteLine(now1.ToString("hh:mm tt")); // Custom format: hour:minute AM/PM
-            Console.WriteLine(now1.ToString("HH:mm:ss")); // Custom format: hour:minute:second (24-hour clock)
+            Console.WriteLine(now1.ToString("yyyy"));                 // 2024
+            Console.WriteLine(now1.ToString("yyyy-MM-dd"));          // 2024 - 08 - 07
+            Console.WriteLine(now1.ToString("dd/MM/yyyy"));         // 07 / 08 / 2024
+            Console.WriteLine(now1.ToString("MMMM dd, yyyy"));     //  August 07, 2024
+            Console.WriteLine(now1.ToString("ddd, dd MMM yyyy HH:mm:ss"));     //  Wed, 07 Aug 2024 14:55:41
+            Console.WriteLine(now1.ToString("hh:mm tt"));                   // 02:55 PM
+            Console.WriteLine(now1.ToString("HH:mm:ss"));                  // 14:55:41
 
             Console.ReadLine();
 
