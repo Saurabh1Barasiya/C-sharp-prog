@@ -1,0 +1,7 @@
+G:\C#program\C-sharp-prog\Part-2\ReadingAndWritingOnConsole\bin\Debug\ReadingAndWritingOnConsole.exe.config
+G:\C#program\C-sharp-prog\Part-2\ReadingAndWritingOnConsole\bin\Debug\ReadingAndWritingOnConsole.exe
+G:\C#program\C-sharp-prog\Part-2\ReadingAndWritingOnConsole\bin\Debug\ReadingAndWritingOnConsole.pdb
+G:\C#program\C-sharp-prog\Part-2\ReadingAndWritingOnConsole\obj\Debug\ReadingAndWritingOnConsole.csproj.AssemblyReference.cache
+G:\C#program\C-sharp-prog\Part-2\ReadingAndWritingOnConsole\obj\Debug\ReadingAndWritingOnConsole.csproj.CoreCompileInputs.cache
+G:\C#program\C-sharp-prog\Part-2\ReadingAndWritingOnConsole\obj\Debug\ReadingAndWritingOnConsole.exe
+G:\C#program\C-sharp-prog\Part-2\ReadingAndWritingOnConsole\obj\Debug\ReadingAndWritingOnConsole.pdb
