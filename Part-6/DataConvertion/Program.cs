@@ -83,8 +83,6 @@ namespace DataConvertion
             Console.WriteLine(floatVal);
 
 
-
-
             Console.ReadLine();
 
         }
