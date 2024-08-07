@@ -1,0 +1,7 @@
+G:\C#program\C-sharp-prog\Part-16\Jagged Array\bin\Debug\Jagged Array.exe.config
+G:\C#program\C-sharp-prog\Part-16\Jagged Array\bin\Debug\Jagged Array.exe
+G:\C#program\C-sharp-prog\Part-16\Jagged Array\bin\Debug\Jagged Array.pdb
+G:\C#program\C-sharp-prog\Part-16\Jagged Array\obj\Debug\Jagged Array.csproj.AssemblyReference.cache
+G:\C#program\C-sharp-prog\Part-16\Jagged Array\obj\Debug\Jagged Array.csproj.CoreCompileInputs.cache
+G:\C#program\C-sharp-prog\Part-16\Jagged Array\obj\Debug\Jagged Array.exe
+G:\C#program\C-sharp-prog\Part-16\Jagged Array\obj\Debug\Jagged Array.pdb
