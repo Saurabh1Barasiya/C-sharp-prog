@@ -1,0 +1,7 @@
+G:\C#program\C-sharp-prog\Part-20\Function with var and Dynamic\bin\Debug\Function with var and Dynamic.exe.config
+G:\C#program\C-sharp-prog\Part-20\Function with var and Dynamic\bin\Debug\Function with var and Dynamic.exe
+G:\C#program\C-sharp-prog\Part-20\Function with var and Dynamic\bin\Debug\Function with var and Dynamic.pdb
+G:\C#program\C-sharp-prog\Part-20\Function with var and Dynamic\obj\Debug\Function with var and Dynamic.csproj.AssemblyReference.cache
+G:\C#program\C-sharp-prog\Part-20\Function with var and Dynamic\obj\Debug\Function with var and Dynamic.csproj.CoreCompileInputs.cache
+G:\C#program\C-sharp-prog\Part-20\Function with var and Dynamic\obj\Debug\Function with var and Dynamic.exe
+G:\C#program\C-sharp-prog\Part-20\Function with var and Dynamic\obj\Debug\Function with var and Dynamic.pdb
