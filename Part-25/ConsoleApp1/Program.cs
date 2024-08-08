@@ -14,7 +14,7 @@ namespace ConsoleApp1
     // A static constructor cannot take parameters.
     // It does not have any access modifiers like public, private, etc.,
     // It is called only once for the entire class, not per instance.
-    // The static constructor is executed before any static member of the class is accessed or before the first instance of the class is created.
+    // The static constructor is executed before any static member of the class is accessed or before the first instance of the class is created.s
 
     public class Example
     {
