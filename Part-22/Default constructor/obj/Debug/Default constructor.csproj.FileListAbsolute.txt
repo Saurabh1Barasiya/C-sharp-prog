@@ -1,0 +1,7 @@
+G:\C#program\C-sharp-prog\Part-22\Default constructor\bin\Debug\Default constructor.exe.config
+G:\C#program\C-sharp-prog\Part-22\Default constructor\bin\Debug\Default constructor.exe
+G:\C#program\C-sharp-prog\Part-22\Default constructor\bin\Debug\Default constructor.pdb
+G:\C#program\C-sharp-prog\Part-22\Default constructor\obj\Debug\Default constructor.csproj.AssemblyReference.cache
+G:\C#program\C-sharp-prog\Part-22\Default constructor\obj\Debug\Default constructor.csproj.CoreCompileInputs.cache
+G:\C#program\C-sharp-prog\Part-22\Default constructor\obj\Debug\Default constructor.exe
+G:\C#program\C-sharp-prog\Part-22\Default constructor\obj\Debug\Default constructor.pdb
