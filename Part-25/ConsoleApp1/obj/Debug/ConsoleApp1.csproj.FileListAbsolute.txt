@@ -1,0 +1,7 @@
+G:\C#program\C-sharp-prog\Part-25\ConsoleApp1\bin\Debug\ConsoleApp1.exe.config
+G:\C#program\C-sharp-prog\Part-25\ConsoleApp1\bin\Debug\ConsoleApp1.exe
+G:\C#program\C-sharp-prog\Part-25\ConsoleApp1\bin\Debug\ConsoleApp1.pdb
+G:\C#program\C-sharp-prog\Part-25\ConsoleApp1\obj\Debug\ConsoleApp1.csproj.AssemblyReference.cache
+G:\C#program\C-sharp-prog\Part-25\ConsoleApp1\obj\Debug\ConsoleApp1.csproj.CoreCompileInputs.cache
+G:\C#program\C-sharp-prog\Part-25\ConsoleApp1\obj\Debug\ConsoleApp1.exe
+G:\C#program\C-sharp-prog\Part-25\ConsoleApp1\obj\Debug\ConsoleApp1.pdb
