@@ -1,0 +1,7 @@
+G:\C#program\C-sharp-prog\Part-23\Parameterized constructor\bin\Debug\Parameterized constructor.exe.config
+G:\C#program\C-sharp-prog\Part-23\Parameterized constructor\bin\Debug\Parameterized constructor.exe
+G:\C#program\C-sharp-prog\Part-23\Parameterized constructor\bin\Debug\Parameterized constructor.pdb
+G:\C#program\C-sharp-prog\Part-23\Parameterized constructor\obj\Debug\Parameterized constructor.csproj.AssemblyReference.cache
+G:\C#program\C-sharp-prog\Part-23\Parameterized constructor\obj\Debug\Parameterized constructor.csproj.CoreCompileInputs.cache
+G:\C#program\C-sharp-prog\Part-23\Parameterized constructor\obj\Debug\Parameterized constructor.exe
+G:\C#program\C-sharp-prog\Part-23\Parameterized constructor\obj\Debug\Parameterized constructor.pdb
