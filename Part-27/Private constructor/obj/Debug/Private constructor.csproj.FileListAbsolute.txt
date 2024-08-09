@@ -1,0 +1,7 @@
+G:\C#program\C-sharp-prog\Part-27\Private constructor\bin\Debug\Private constructor.exe.config
+G:\C#program\C-sharp-prog\Part-27\Private constructor\bin\Debug\Private constructor.exe
+G:\C#program\C-sharp-prog\Part-27\Private constructor\bin\Debug\Private constructor.pdb
+G:\C#program\C-sharp-prog\Part-27\Private constructor\obj\Debug\Private constructor.csproj.AssemblyReference.cache
+G:\C#program\C-sharp-prog\Part-27\Private constructor\obj\Debug\Private constructor.csproj.CoreCompileInputs.cache
+G:\C#program\C-sharp-prog\Part-27\Private constructor\obj\Debug\Private constructor.exe
+G:\C#program\C-sharp-prog\Part-27\Private constructor\obj\Debug\Private constructor.pdb
