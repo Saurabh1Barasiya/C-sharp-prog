@@ -1,0 +1,7 @@
+G:\C#program\C-sharp-prog\Part-26\Copy constructor\bin\Debug\Copy constructor.exe.config
+G:\C#program\C-sharp-prog\Part-26\Copy constructor\bin\Debug\Copy constructor.exe
+G:\C#program\C-sharp-prog\Part-26\Copy constructor\bin\Debug\Copy constructor.pdb
+G:\C#program\C-sharp-prog\Part-26\Copy constructor\obj\Debug\Copy constructor.csproj.AssemblyReference.cache
+G:\C#program\C-sharp-prog\Part-26\Copy constructor\obj\Debug\Copy constructor.csproj.CoreCompileInputs.cache
+G:\C#program\C-sharp-prog\Part-26\Copy constructor\obj\Debug\Copy constructor.exe
+G:\C#program\C-sharp-prog\Part-26\Copy constructor\obj\Debug\Copy constructor.pdb
