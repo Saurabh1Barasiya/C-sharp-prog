@@ -1,0 +1,7 @@
+G:\C#program\C-sharp-prog\Part-33\Single Inheritance\bin\Debug\Single Inheritance.exe.config
+G:\C#program\C-sharp-prog\Part-33\Single Inheritance\bin\Debug\Single Inheritance.exe
+G:\C#program\C-sharp-prog\Part-33\Single Inheritance\bin\Debug\Single Inheritance.pdb
+G:\C#program\C-sharp-prog\Part-33\Single Inheritance\obj\Debug\Single Inheritance.csproj.AssemblyReference.cache
+G:\C#program\C-sharp-prog\Part-33\Single Inheritance\obj\Debug\Single Inheritance.csproj.CoreCompileInputs.cache
+G:\C#program\C-sharp-prog\Part-33\Single Inheritance\obj\Debug\Single Inheritance.exe
+G:\C#program\C-sharp-prog\Part-33\Single Inheritance\obj\Debug\Single Inheritance.pdb
