@@ -16,6 +16,8 @@ namespace ConsoleApp1
 
     // No Interfaces: A static class cannot implement interfaces.
 
+    // static class contain only static members.
+
 
     static class Example
     {
@@ -32,7 +34,16 @@ namespace ConsoleApp1
             Console.WriteLine(Num);
             Console.WriteLine(Name);
         }
+
+
+        // cannot declare instance members in static class.
+        // public void display() { }
     }
+
+    // Static classes cannot inherit from other classes or be inherited.
+    
+    // Dont uncomment.
+    // public class Test : Example { }
 
     internal class Program
     {
