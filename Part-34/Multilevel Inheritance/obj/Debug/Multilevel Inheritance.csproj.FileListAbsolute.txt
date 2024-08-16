@@ -1,0 +1,7 @@
+G:\C#program\C-sharp-prog\Part-34\Multilevel Inheritance\bin\Debug\Multilevel Inheritance.exe.config
+G:\C#program\C-sharp-prog\Part-34\Multilevel Inheritance\bin\Debug\Multilevel Inheritance.exe
+G:\C#program\C-sharp-prog\Part-34\Multilevel Inheritance\bin\Debug\Multilevel Inheritance.pdb
+G:\C#program\C-sharp-prog\Part-34\Multilevel Inheritance\obj\Debug\Multilevel Inheritance.csproj.AssemblyReference.cache
+G:\C#program\C-sharp-prog\Part-34\Multilevel Inheritance\obj\Debug\Multilevel Inheritance.csproj.CoreCompileInputs.cache
+G:\C#program\C-sharp-prog\Part-34\Multilevel Inheritance\obj\Debug\Multilevel Inheritance.exe
+G:\C#program\C-sharp-prog\Part-34\Multilevel Inheritance\obj\Debug\Multilevel Inheritance.pdb
