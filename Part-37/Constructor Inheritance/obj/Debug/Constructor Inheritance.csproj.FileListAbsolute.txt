@@ -1,0 +1,7 @@
+G:\C#program\C-sharp-prog\Part-37\Constructor Inheritance\bin\Debug\Constructor Inheritance.exe.config
+G:\C#program\C-sharp-prog\Part-37\Constructor Inheritance\bin\Debug\Constructor Inheritance.exe
+G:\C#program\C-sharp-prog\Part-37\Constructor Inheritance\bin\Debug\Constructor Inheritance.pdb
+G:\C#program\C-sharp-prog\Part-37\Constructor Inheritance\obj\Debug\Constructor Inheritance.csproj.AssemblyReference.cache
+G:\C#program\C-sharp-prog\Part-37\Constructor Inheritance\obj\Debug\Constructor Inheritance.csproj.CoreCompileInputs.cache
+G:\C#program\C-sharp-prog\Part-37\Constructor Inheritance\obj\Debug\Constructor Inheritance.exe
+G:\C#program\C-sharp-prog\Part-37\Constructor Inheritance\obj\Debug\Constructor Inheritance.pdb
