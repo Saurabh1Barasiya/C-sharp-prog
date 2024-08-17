@@ -1,0 +1,7 @@
+G:\C#program\C-sharp-prog\Part-49\setter and gtter\bin\Debug\setter and gtter.exe.config
+G:\C#program\C-sharp-prog\Part-49\setter and gtter\bin\Debug\setter and gtter.exe
+G:\C#program\C-sharp-prog\Part-49\setter and gtter\bin\Debug\setter and gtter.pdb
+G:\C#program\C-sharp-prog\Part-49\setter and gtter\obj\Debug\setter and gtter.csproj.AssemblyReference.cache
+G:\C#program\C-sharp-prog\Part-49\setter and gtter\obj\Debug\setter and gtter.csproj.CoreCompileInputs.cache
+G:\C#program\C-sharp-prog\Part-49\setter and gtter\obj\Debug\setter and gtter.exe
+G:\C#program\C-sharp-prog\Part-49\setter and gtter\obj\Debug\setter and gtter.pdb
