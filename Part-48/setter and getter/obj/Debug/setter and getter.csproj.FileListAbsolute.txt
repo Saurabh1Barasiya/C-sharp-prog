@@ -1,0 +1,7 @@
+G:\C#program\C-sharp-prog\Part-48\setter and getter\bin\Debug\setter and getter.exe.config
+G:\C#program\C-sharp-prog\Part-48\setter and getter\bin\Debug\setter and getter.exe
+G:\C#program\C-sharp-prog\Part-48\setter and getter\bin\Debug\setter and getter.pdb
+G:\C#program\C-sharp-prog\Part-48\setter and getter\obj\Debug\setter and getter.csproj.AssemblyReference.cache
+G:\C#program\C-sharp-prog\Part-48\setter and getter\obj\Debug\setter and getter.csproj.CoreCompileInputs.cache
+G:\C#program\C-sharp-prog\Part-48\setter and getter\obj\Debug\setter and getter.exe
+G:\C#program\C-sharp-prog\Part-48\setter and getter\obj\Debug\setter and getter.pdb
