@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.10.35122.118
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Encaptation practical", "Encaptation practical.csproj", "{88B13892-E03E-4B85-BF51-8F6A36533172}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{88B13892-E03E-4B85-BF51-8F6A36533172}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{88B13892-E03E-4B85-BF51-8F6A36533172}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{88B13892-E03E-4B85-BF51-8F6A36533172}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{88B13892-E03E-4B85-BF51-8F6A36533172}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {766B828C-43F7-4526-BC1E-6F7A70146957}
+	EndGlobalSection
+EndGlobal

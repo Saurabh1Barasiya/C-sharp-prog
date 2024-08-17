@@ -1,0 +1,7 @@
+G:\C#program\C-sharp-prog\Part-46\Encaptation practical\bin\Debug\Encaptation practical.exe.config
+G:\C#program\C-sharp-prog\Part-46\Encaptation practical\bin\Debug\Encaptation practical.exe
+G:\C#program\C-sharp-prog\Part-46\Encaptation practical\bin\Debug\Encaptation practical.pdb
+G:\C#program\C-sharp-prog\Part-46\Encaptation practical\obj\Debug\Encaptation practical.csproj.AssemblyReference.cache
+G:\C#program\C-sharp-prog\Part-46\Encaptation practical\obj\Debug\Encaptation practical.csproj.CoreCompileInputs.cache
+G:\C#program\C-sharp-prog\Part-46\Encaptation practical\obj\Debug\Encaptation practical.exe
+G:\C#program\C-sharp-prog\Part-46\Encaptation practical\obj\Debug\Encaptation practical.pdb
