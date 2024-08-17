@@ -54,19 +54,22 @@ namespace Protected_access_modifier
 
             B obj = new B();
 
-           // ham direct access nahi kar sakte h protected mambers ko.
-           // but helper function ka use karke kar sakkte h.
+            // ham direct access nahi kar sakte h protected mambers ko.
+            // but helper function ka use karke kar sakkte h.
 
-           // direct access to nahi kar sakkte h . but child class me helper function ka use kar sakte h.
-           //Console.WriteLine(obj.name);
-           //obj.showData();
+            // direct access to nahi kar sakkte h . but child class me helper function ka use kar sakte h.
+            // Console.WriteLine(obj.name);
+            //obj.showData();
+
+
 
             obj.show();
 
+            Console.WriteLine();
 
 
 
-           Console.ReadLine();
+            Console.ReadLine();
         }
     }
 }
