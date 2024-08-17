@@ -1,0 +1,7 @@
+G:\C#program\C-sharp-prog\Part-44\Internal access modifier inheritance\bin\Debug\Internal access modifier inheritance.exe.config
+G:\C#program\C-sharp-prog\Part-44\Internal access modifier inheritance\bin\Debug\Internal access modifier inheritance.exe
+G:\C#program\C-sharp-prog\Part-44\Internal access modifier inheritance\bin\Debug\Internal access modifier inheritance.pdb
+G:\C#program\C-sharp-prog\Part-44\Internal access modifier inheritance\obj\Debug\Internal access modifier inheritance.csproj.AssemblyReference.cache
+G:\C#program\C-sharp-prog\Part-44\Internal access modifier inheritance\obj\Debug\Internal access modifier inheritance.csproj.CoreCompileInputs.cache
+G:\C#program\C-sharp-prog\Part-44\Internal access modifier inheritance\obj\Debug\Internal access modifier inheritance.exe
+G:\C#program\C-sharp-prog\Part-44\Internal access modifier inheritance\obj\Debug\Internal access modifier inheritance.pdb
