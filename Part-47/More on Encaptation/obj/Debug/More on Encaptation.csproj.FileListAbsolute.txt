@@ -1,0 +1,7 @@
+G:\C#program\C-sharp-prog\Part-47\More on Encaptation\bin\Debug\More on Encaptation.exe.config
+G:\C#program\C-sharp-prog\Part-47\More on Encaptation\bin\Debug\More on Encaptation.exe
+G:\C#program\C-sharp-prog\Part-47\More on Encaptation\bin\Debug\More on Encaptation.pdb
+G:\C#program\C-sharp-prog\Part-47\More on Encaptation\obj\Debug\More on Encaptation.csproj.AssemblyReference.cache
+G:\C#program\C-sharp-prog\Part-47\More on Encaptation\obj\Debug\More on Encaptation.csproj.CoreCompileInputs.cache
+G:\C#program\C-sharp-prog\Part-47\More on Encaptation\obj\Debug\More on Encaptation.exe
+G:\C#program\C-sharp-prog\Part-47\More on Encaptation\obj\Debug\More on Encaptation.pdb
