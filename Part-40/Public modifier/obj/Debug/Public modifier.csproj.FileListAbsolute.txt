@@ -1,0 +1,7 @@
+G:\C#program\C-sharp-prog\Part-40\Public modifier\bin\Debug\Public modifier.exe.config
+G:\C#program\C-sharp-prog\Part-40\Public modifier\bin\Debug\Public modifier.exe
+G:\C#program\C-sharp-prog\Part-40\Public modifier\bin\Debug\Public modifier.pdb
+G:\C#program\C-sharp-prog\Part-40\Public modifier\obj\Debug\Public modifier.csproj.AssemblyReference.cache
+G:\C#program\C-sharp-prog\Part-40\Public modifier\obj\Debug\Public modifier.csproj.CoreCompileInputs.cache
+G:\C#program\C-sharp-prog\Part-40\Public modifier\obj\Debug\Public modifier.exe
+G:\C#program\C-sharp-prog\Part-40\Public modifier\obj\Debug\Public modifier.pdb
