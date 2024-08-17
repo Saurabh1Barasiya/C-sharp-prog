@@ -63,8 +63,6 @@ namespace Protected_access_modifier
 
 
 
-            obj.show();
-
             Console.WriteLine();
 
 
