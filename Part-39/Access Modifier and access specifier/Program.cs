@@ -34,8 +34,7 @@ namespace Access_Modifier_and_access_specifier
 
 
 
-
-    // class are only either public or internal.
+    // classes are only either public or internal.
 
     internal class Program
     {
