@@ -1,0 +1,7 @@
+G:\C#program\C-sharp-prog\part-42\Protected access modifier\bin\Debug\Protected access modifier.exe.config
+G:\C#program\C-sharp-prog\part-42\Protected access modifier\bin\Debug\Protected access modifier.exe
+G:\C#program\C-sharp-prog\part-42\Protected access modifier\bin\Debug\Protected access modifier.pdb
+G:\C#program\C-sharp-prog\part-42\Protected access modifier\obj\Debug\Protected access modifier.csproj.AssemblyReference.cache
+G:\C#program\C-sharp-prog\part-42\Protected access modifier\obj\Debug\Protected access modifier.csproj.CoreCompileInputs.cache
+G:\C#program\C-sharp-prog\part-42\Protected access modifier\obj\Debug\Protected access modifier.exe
+G:\C#program\C-sharp-prog\part-42\Protected access modifier\obj\Debug\Protected access modifier.pdb
