@@ -1,0 +1,7 @@
+G:\C#program\C-sharp-prog\Part-51\Static properties\obj\Debug\Static properties.csproj.AssemblyReference.cache
+G:\C#program\C-sharp-prog\Part-51\Static properties\obj\Debug\Static properties.csproj.CoreCompileInputs.cache
+G:\C#program\C-sharp-prog\Part-51\Static properties\bin\Debug\Static properties.exe.config
+G:\C#program\C-sharp-prog\Part-51\Static properties\bin\Debug\Static properties.exe
+G:\C#program\C-sharp-prog\Part-51\Static properties\bin\Debug\Static properties.pdb
+G:\C#program\C-sharp-prog\Part-51\Static properties\obj\Debug\Static properties.exe
+G:\C#program\C-sharp-prog\Part-51\Static properties\obj\Debug\Static properties.pdb
