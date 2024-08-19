@@ -17,10 +17,12 @@ namespace More_on_static_properties
 
                 // aesa nahi kar sakte h kyoki name intance variable h.
                 // _name 1  static property hai.
-                name = value;
+
+                //name = value;
             }
             get {
-                return name;
+                // return name;
+                return "";
             }
         }
     }
