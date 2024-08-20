@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.10.35122.118
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Inheritance overloding", "Inheritance overloding.csproj", "{04EB7182-7999-4EC0-8743-E85C02C61F49}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{04EB7182-7999-4EC0-8743-E85C02C61F49}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{04EB7182-7999-4EC0-8743-E85C02C61F49}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{04EB7182-7999-4EC0-8743-E85C02C61F49}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{04EB7182-7999-4EC0-8743-E85C02C61F49}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {E5581647-8B92-4B8F-9A38-E6033AE4D1BC}
+	EndGlobalSection
+EndGlobal

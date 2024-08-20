@@ -1,0 +1,7 @@
+G:\C#program\C-sharp-prog\Part-56\Inheritance overloding\bin\Debug\Inheritance overloding.exe.config
+G:\C#program\C-sharp-prog\Part-56\Inheritance overloding\bin\Debug\Inheritance overloding.exe
+G:\C#program\C-sharp-prog\Part-56\Inheritance overloding\bin\Debug\Inheritance overloding.pdb
+G:\C#program\C-sharp-prog\Part-56\Inheritance overloding\obj\Debug\Inheritance overloding.csproj.AssemblyReference.cache
+G:\C#program\C-sharp-prog\Part-56\Inheritance overloding\obj\Debug\Inheritance overloding.csproj.CoreCompileInputs.cache
+G:\C#program\C-sharp-prog\Part-56\Inheritance overloding\obj\Debug\Inheritance overloding.exe
+G:\C#program\C-sharp-prog\Part-56\Inheritance overloding\obj\Debug\Inheritance overloding.pdb
