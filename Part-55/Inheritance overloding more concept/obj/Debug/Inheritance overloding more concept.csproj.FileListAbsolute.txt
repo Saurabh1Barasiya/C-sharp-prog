@@ -1,0 +1,7 @@
+G:\C#program\C-sharp-prog\Part-55\Inheritance overloding more concept\bin\Debug\Inheritance overloding more concept.exe.config
+G:\C#program\C-sharp-prog\Part-55\Inheritance overloding more concept\bin\Debug\Inheritance overloding more concept.exe
+G:\C#program\C-sharp-prog\Part-55\Inheritance overloding more concept\bin\Debug\Inheritance overloding more concept.pdb
+G:\C#program\C-sharp-prog\Part-55\Inheritance overloding more concept\obj\Debug\Inheritance overloding more concept.csproj.AssemblyReference.cache
+G:\C#program\C-sharp-prog\Part-55\Inheritance overloding more concept\obj\Debug\Inheritance overloding more concept.csproj.CoreCompileInputs.cache
+G:\C#program\C-sharp-prog\Part-55\Inheritance overloding more concept\obj\Debug\Inheritance overloding more concept.exe
+G:\C#program\C-sharp-prog\Part-55\Inheritance overloding more concept\obj\Debug\Inheritance overloding more concept.pdb
