@@ -32,16 +32,21 @@ namespace Inheritance_Method_overloading
             Console.WriteLine("I am constructor....");
         }
 
+        public void print()
+        {
+            Console.WriteLine("I am print metdhod with no argument...");
+        }
+
         public void print(string text)
         {
-            Console.WriteLine(text);
+            Console.WriteLine($"I am print metdhod with 1 argument \n {text}");
         }
 
         public void print(string text, int time)
         {
             for (int i = 0; i < time; i++)
             {
-                Console.WriteLine(text);
+                Console.WriteLine($"I am print metdhod with 2 argument \n {text}");
             }
         }
     }
