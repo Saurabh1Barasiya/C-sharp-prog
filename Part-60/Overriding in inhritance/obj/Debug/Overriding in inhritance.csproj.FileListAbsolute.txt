@@ -1,0 +1,7 @@
+G:\C#program\C-sharp-prog\Part-60\Overriding in inhritance\bin\Debug\Overriding in inhritance.exe.config
+G:\C#program\C-sharp-prog\Part-60\Overriding in inhritance\bin\Debug\Overriding in inhritance.exe
+G:\C#program\C-sharp-prog\Part-60\Overriding in inhritance\bin\Debug\Overriding in inhritance.pdb
+G:\C#program\C-sharp-prog\Part-60\Overriding in inhritance\obj\Debug\Overriding in inhritance.csproj.AssemblyReference.cache
+G:\C#program\C-sharp-prog\Part-60\Overriding in inhritance\obj\Debug\Overriding in inhritance.csproj.CoreCompileInputs.cache
+G:\C#program\C-sharp-prog\Part-60\Overriding in inhritance\obj\Debug\Overriding in inhritance.exe
+G:\C#program\C-sharp-prog\Part-60\Overriding in inhritance\obj\Debug\Overriding in inhritance.pdb
