@@ -34,6 +34,7 @@ namespace Operator_Overloding
         // agar app operator overloding karte h to vo method public and static honi cahiye.
         // operator keyword ka use karna padega.
         // fir operator ka symbol (+) jisko overload karna h .
+
         public static Example operator +(Example a1, Example a2)
         {
             Example newObject = new Example(0, 0);
