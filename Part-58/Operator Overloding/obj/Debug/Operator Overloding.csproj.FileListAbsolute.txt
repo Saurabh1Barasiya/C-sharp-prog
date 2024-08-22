@@ -1,0 +1,7 @@
+G:\C#program\C-sharp-prog\Part-58\Operator Overloding\bin\Debug\Operator Overloding.exe.config
+G:\C#program\C-sharp-prog\Part-58\Operator Overloding\bin\Debug\Operator Overloding.exe
+G:\C#program\C-sharp-prog\Part-58\Operator Overloding\bin\Debug\Operator Overloding.pdb
+G:\C#program\C-sharp-prog\Part-58\Operator Overloding\obj\Debug\Operator Overloding.csproj.AssemblyReference.cache
+G:\C#program\C-sharp-prog\Part-58\Operator Overloding\obj\Debug\Operator Overloding.csproj.CoreCompileInputs.cache
+G:\C#program\C-sharp-prog\Part-58\Operator Overloding\obj\Debug\Operator Overloding.exe
+G:\C#program\C-sharp-prog\Part-58\Operator Overloding\obj\Debug\Operator Overloding.pdb
