@@ -1,0 +1,7 @@
+G:\C#program\C-sharp-prog\Part-59\== operator overloding\bin\Debug\== operator overloding.exe.config
+G:\C#program\C-sharp-prog\Part-59\== operator overloding\bin\Debug\== operator overloding.exe
+G:\C#program\C-sharp-prog\Part-59\== operator overloding\bin\Debug\== operator overloding.pdb
+G:\C#program\C-sharp-prog\Part-59\== operator overloding\obj\Debug\== operator overloding.csproj.AssemblyReference.cache
+G:\C#program\C-sharp-prog\Part-59\== operator overloding\obj\Debug\== operator overloding.csproj.CoreCompileInputs.cache
+G:\C#program\C-sharp-prog\Part-59\== operator overloding\obj\Debug\== operator overloding.exe
+G:\C#program\C-sharp-prog\Part-59\== operator overloding\obj\Debug\== operator overloding.pdb
