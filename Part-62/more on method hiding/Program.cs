@@ -21,6 +21,8 @@ namespace more_on_method_hiding
     {
         public new void ShowFullName()
         {
+            // if you want to call base class method.
+            // base.ShowFullName();
             Console.WriteLine($"First name {Firstname} and lastname {Lastname} PTE");
         }
     }
