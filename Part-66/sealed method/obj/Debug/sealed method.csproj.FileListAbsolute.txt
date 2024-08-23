@@ -1,0 +1,7 @@
+G:\C#program\C-sharp-prog\Part-66\sealed method\bin\Debug\sealed method.exe.config
+G:\C#program\C-sharp-prog\Part-66\sealed method\bin\Debug\sealed method.exe
+G:\C#program\C-sharp-prog\Part-66\sealed method\bin\Debug\sealed method.pdb
+G:\C#program\C-sharp-prog\Part-66\sealed method\obj\Debug\sealed method.csproj.AssemblyReference.cache
+G:\C#program\C-sharp-prog\Part-66\sealed method\obj\Debug\sealed method.csproj.CoreCompileInputs.cache
+G:\C#program\C-sharp-prog\Part-66\sealed method\obj\Debug\sealed method.exe
+G:\C#program\C-sharp-prog\Part-66\sealed method\obj\Debug\sealed method.pdb
