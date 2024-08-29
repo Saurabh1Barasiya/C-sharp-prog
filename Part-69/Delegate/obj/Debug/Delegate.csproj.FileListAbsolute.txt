@@ -1,0 +1,7 @@
+G:\C#program\C-sharp-prog\Part-69\Delegate\bin\Debug\Delegate.exe.config
+G:\C#program\C-sharp-prog\Part-69\Delegate\bin\Debug\Delegate.exe
+G:\C#program\C-sharp-prog\Part-69\Delegate\bin\Debug\Delegate.pdb
+G:\C#program\C-sharp-prog\Part-69\Delegate\obj\Debug\Delegate.csproj.AssemblyReference.cache
+G:\C#program\C-sharp-prog\Part-69\Delegate\obj\Debug\Delegate.csproj.CoreCompileInputs.cache
+G:\C#program\C-sharp-prog\Part-69\Delegate\obj\Debug\Delegate.exe
+G:\C#program\C-sharp-prog\Part-69\Delegate\obj\Debug\Delegate.pdb
