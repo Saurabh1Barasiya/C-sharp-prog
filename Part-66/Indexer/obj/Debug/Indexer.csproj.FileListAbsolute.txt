@@ -1,0 +1,7 @@
+G:\C#program\C-sharp-prog\Part-66\Indexer\bin\Debug\Indexer.exe.config
+G:\C#program\C-sharp-prog\Part-66\Indexer\bin\Debug\Indexer.exe
+G:\C#program\C-sharp-prog\Part-66\Indexer\bin\Debug\Indexer.pdb
+G:\C#program\C-sharp-prog\Part-66\Indexer\obj\Debug\Indexer.csproj.AssemblyReference.cache
+G:\C#program\C-sharp-prog\Part-66\Indexer\obj\Debug\Indexer.csproj.CoreCompileInputs.cache
+G:\C#program\C-sharp-prog\Part-66\Indexer\obj\Debug\Indexer.exe
+G:\C#program\C-sharp-prog\Part-66\Indexer\obj\Debug\Indexer.pdb
