@@ -1,0 +1,7 @@
+G:\C#program\C-sharp-prog\Part-75\more on abstruct\bin\Debug\more on abstruct.exe.config
+G:\C#program\C-sharp-prog\Part-75\more on abstruct\bin\Debug\more on abstruct.exe
+G:\C#program\C-sharp-prog\Part-75\more on abstruct\bin\Debug\more on abstruct.pdb
+G:\C#program\C-sharp-prog\Part-75\more on abstruct\obj\Debug\more on abstruct.csproj.AssemblyReference.cache
+G:\C#program\C-sharp-prog\Part-75\more on abstruct\obj\Debug\more on abstruct.csproj.CoreCompileInputs.cache
+G:\C#program\C-sharp-prog\Part-75\more on abstruct\obj\Debug\more on abstruct.exe
+G:\C#program\C-sharp-prog\Part-75\more on abstruct\obj\Debug\more on abstruct.pdb
