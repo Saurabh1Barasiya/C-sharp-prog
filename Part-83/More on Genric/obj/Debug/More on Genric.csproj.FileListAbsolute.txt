@@ -1,0 +1,7 @@
+G:\C#program\C-sharp-prog\Part-83\More on Genric\bin\Debug\More on Genric.exe.config
+G:\C#program\C-sharp-prog\Part-83\More on Genric\bin\Debug\More on Genric.exe
+G:\C#program\C-sharp-prog\Part-83\More on Genric\bin\Debug\More on Genric.pdb
+G:\C#program\C-sharp-prog\Part-83\More on Genric\obj\Debug\More on Genric.csproj.AssemblyReference.cache
+G:\C#program\C-sharp-prog\Part-83\More on Genric\obj\Debug\More on Genric.csproj.CoreCompileInputs.cache
+G:\C#program\C-sharp-prog\Part-83\More on Genric\obj\Debug\More on Genric.exe
+G:\C#program\C-sharp-prog\Part-83\More on Genric\obj\Debug\More on Genric.pdb
