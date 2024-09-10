@@ -1,0 +1,7 @@
+G:\C#program\C-sharp-prog\Part-80\async await\obj\Debug\async await.csproj.AssemblyReference.cache
+G:\C#program\C-sharp-prog\Part-80\async await\obj\Debug\async await.csproj.CoreCompileInputs.cache
+G:\C#program\C-sharp-prog\Part-80\async await\bin\Debug\async await.exe.config
+G:\C#program\C-sharp-prog\Part-80\async await\bin\Debug\async await.exe
+G:\C#program\C-sharp-prog\Part-80\async await\bin\Debug\async await.pdb
+G:\C#program\C-sharp-prog\Part-80\async await\obj\Debug\async await.exe
+G:\C#program\C-sharp-prog\Part-80\async await\obj\Debug\async await.pdb
