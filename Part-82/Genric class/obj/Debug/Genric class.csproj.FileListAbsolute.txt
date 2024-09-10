@@ -1,0 +1,7 @@
+G:\C#program\C-sharp-prog\Part-82\Genric class\bin\Debug\Genric class.exe.config
+G:\C#program\C-sharp-prog\Part-82\Genric class\bin\Debug\Genric class.exe
+G:\C#program\C-sharp-prog\Part-82\Genric class\bin\Debug\Genric class.pdb
+G:\C#program\C-sharp-prog\Part-82\Genric class\obj\Debug\Genric class.csproj.AssemblyReference.cache
+G:\C#program\C-sharp-prog\Part-82\Genric class\obj\Debug\Genric class.csproj.CoreCompileInputs.cache
+G:\C#program\C-sharp-prog\Part-82\Genric class\obj\Debug\Genric class.exe
+G:\C#program\C-sharp-prog\Part-82\Genric class\obj\Debug\Genric class.pdb
