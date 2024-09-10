@@ -1,0 +1,7 @@
+G:\C#program\C-sharp-prog\Part-72\Interface C#\bin\Debug\Interface C#.exe.config
+G:\C#program\C-sharp-prog\Part-72\Interface C#\bin\Debug\Interface C#.exe
+G:\C#program\C-sharp-prog\Part-72\Interface C#\bin\Debug\Interface C#.pdb
+G:\C#program\C-sharp-prog\Part-72\Interface C#\obj\Debug\Interface C#.csproj.AssemblyReference.cache
+G:\C#program\C-sharp-prog\Part-72\Interface C#\obj\Debug\Interface C#.csproj.CoreCompileInputs.cache
+G:\C#program\C-sharp-prog\Part-72\Interface C#\obj\Debug\Interface C#.exe
+G:\C#program\C-sharp-prog\Part-72\Interface C#\obj\Debug\Interface C#.pdb
