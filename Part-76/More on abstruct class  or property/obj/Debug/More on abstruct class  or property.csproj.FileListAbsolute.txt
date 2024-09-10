@@ -1,0 +1,7 @@
+G:\C#program\C-sharp-prog\Part-76\More on abstruct class  or property\obj\Debug\More on abstruct class  or property.csproj.AssemblyReference.cache
+G:\C#program\C-sharp-prog\Part-76\More on abstruct class  or property\obj\Debug\More on abstruct class  or property.csproj.CoreCompileInputs.cache
+G:\C#program\C-sharp-prog\Part-76\More on abstruct class  or property\bin\Debug\More on abstruct class  or property.exe.config
+G:\C#program\C-sharp-prog\Part-76\More on abstruct class  or property\bin\Debug\More on abstruct class  or property.exe
+G:\C#program\C-sharp-prog\Part-76\More on abstruct class  or property\bin\Debug\More on abstruct class  or property.pdb
+G:\C#program\C-sharp-prog\Part-76\More on abstruct class  or property\obj\Debug\More on abstruct class  or property.exe
+G:\C#program\C-sharp-prog\Part-76\More on abstruct class  or property\obj\Debug\More on abstruct class  or property.pdb
