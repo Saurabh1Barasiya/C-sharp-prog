@@ -1,0 +1,7 @@
+G:\C#program\C-sharp-prog\Part-71\more on partial class\obj\Debug\more on partial class.csproj.AssemblyReference.cache
+G:\C#program\C-sharp-prog\Part-71\more on partial class\obj\Debug\more on partial class.csproj.CoreCompileInputs.cache
+G:\C#program\C-sharp-prog\Part-71\more on partial class\bin\Debug\more on partial class.exe.config
+G:\C#program\C-sharp-prog\Part-71\more on partial class\bin\Debug\more on partial class.exe
+G:\C#program\C-sharp-prog\Part-71\more on partial class\bin\Debug\more on partial class.pdb
+G:\C#program\C-sharp-prog\Part-71\more on partial class\obj\Debug\more on partial class.exe
+G:\C#program\C-sharp-prog\Part-71\more on partial class\obj\Debug\more on partial class.pdb
