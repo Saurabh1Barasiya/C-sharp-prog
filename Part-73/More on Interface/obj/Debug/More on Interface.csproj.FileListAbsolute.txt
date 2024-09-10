@@ -1,0 +1,7 @@
+G:\C#program\C-sharp-prog\Part-73\More on Interface\bin\Debug\More on Interface.exe.config
+G:\C#program\C-sharp-prog\Part-73\More on Interface\bin\Debug\More on Interface.exe
+G:\C#program\C-sharp-prog\Part-73\More on Interface\bin\Debug\More on Interface.pdb
+G:\C#program\C-sharp-prog\Part-73\More on Interface\obj\Debug\More on Interface.csproj.AssemblyReference.cache
+G:\C#program\C-sharp-prog\Part-73\More on Interface\obj\Debug\More on Interface.csproj.CoreCompileInputs.cache
+G:\C#program\C-sharp-prog\Part-73\More on Interface\obj\Debug\More on Interface.exe
+G:\C#program\C-sharp-prog\Part-73\More on Interface\obj\Debug\More on Interface.pdb
