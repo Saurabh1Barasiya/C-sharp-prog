@@ -1,0 +1,7 @@
+G:\C#program\C-sharp-prog\Part-70\Partial class concept\bin\Debug\Partial class concept.exe.config
+G:\C#program\C-sharp-prog\Part-70\Partial class concept\bin\Debug\Partial class concept.exe
+G:\C#program\C-sharp-prog\Part-70\Partial class concept\bin\Debug\Partial class concept.pdb
+G:\C#program\C-sharp-prog\Part-70\Partial class concept\obj\Debug\Partial class concept.csproj.AssemblyReference.cache
+G:\C#program\C-sharp-prog\Part-70\Partial class concept\obj\Debug\Partial class concept.csproj.CoreCompileInputs.cache
+G:\C#program\C-sharp-prog\Part-70\Partial class concept\obj\Debug\Partial class concept.exe
+G:\C#program\C-sharp-prog\Part-70\Partial class concept\obj\Debug\Partial class concept.pdb
