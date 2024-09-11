@@ -1,0 +1,7 @@
+G:\C#program\C-sharp-prog\Part-86\Stack non genric\bin\Debug\Stack non genric.exe.config
+G:\C#program\C-sharp-prog\Part-86\Stack non genric\bin\Debug\Stack non genric.exe
+G:\C#program\C-sharp-prog\Part-86\Stack non genric\bin\Debug\Stack non genric.pdb
+G:\C#program\C-sharp-prog\Part-86\Stack non genric\obj\Debug\Stack non genric.csproj.AssemblyReference.cache
+G:\C#program\C-sharp-prog\Part-86\Stack non genric\obj\Debug\Stack non genric.csproj.CoreCompileInputs.cache
+G:\C#program\C-sharp-prog\Part-86\Stack non genric\obj\Debug\Stack non genric.exe
+G:\C#program\C-sharp-prog\Part-86\Stack non genric\obj\Debug\Stack non genric.pdb
