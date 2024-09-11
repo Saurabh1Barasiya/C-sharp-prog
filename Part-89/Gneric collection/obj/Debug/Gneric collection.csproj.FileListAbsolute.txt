@@ -1,0 +1,7 @@
+G:\C#program\C-sharp-prog\Part-89\Gneric collection\bin\Debug\Gneric collection.exe.config
+G:\C#program\C-sharp-prog\Part-89\Gneric collection\bin\Debug\Gneric collection.exe
+G:\C#program\C-sharp-prog\Part-89\Gneric collection\bin\Debug\Gneric collection.pdb
+G:\C#program\C-sharp-prog\Part-89\Gneric collection\obj\Debug\Gneric collection.csproj.AssemblyReference.cache
+G:\C#program\C-sharp-prog\Part-89\Gneric collection\obj\Debug\Gneric collection.csproj.CoreCompileInputs.cache
+G:\C#program\C-sharp-prog\Part-89\Gneric collection\obj\Debug\Gneric collection.exe
+G:\C#program\C-sharp-prog\Part-89\Gneric collection\obj\Debug\Gneric collection.pdb
