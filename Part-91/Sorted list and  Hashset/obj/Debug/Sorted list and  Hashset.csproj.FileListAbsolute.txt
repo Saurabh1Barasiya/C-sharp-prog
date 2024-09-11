@@ -1,0 +1,7 @@
+G:\C#program\C-sharp-prog\Part-91\Sorted list and  Hashset\bin\Debug\Sorted list and  Hashset.exe.config
+G:\C#program\C-sharp-prog\Part-91\Sorted list and  Hashset\bin\Debug\Sorted list and  Hashset.exe
+G:\C#program\C-sharp-prog\Part-91\Sorted list and  Hashset\bin\Debug\Sorted list and  Hashset.pdb
+G:\C#program\C-sharp-prog\Part-91\Sorted list and  Hashset\obj\Debug\Sorted list and  Hashset.csproj.AssemblyReference.cache
+G:\C#program\C-sharp-prog\Part-91\Sorted list and  Hashset\obj\Debug\Sorted list and  Hashset.csproj.CoreCompileInputs.cache
+G:\C#program\C-sharp-prog\Part-91\Sorted list and  Hashset\obj\Debug\Sorted list and  Hashset.exe
+G:\C#program\C-sharp-prog\Part-91\Sorted list and  Hashset\obj\Debug\Sorted list and  Hashset.pdb
