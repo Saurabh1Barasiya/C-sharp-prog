@@ -1,0 +1,7 @@
+G:\C#program\C-sharp-prog\Part-90\Dictionary Genric\bin\Debug\Dictionary Genric.exe.config
+G:\C#program\C-sharp-prog\Part-90\Dictionary Genric\bin\Debug\Dictionary Genric.exe
+G:\C#program\C-sharp-prog\Part-90\Dictionary Genric\bin\Debug\Dictionary Genric.pdb
+G:\C#program\C-sharp-prog\Part-90\Dictionary Genric\obj\Debug\Dictionary Genric.csproj.AssemblyReference.cache
+G:\C#program\C-sharp-prog\Part-90\Dictionary Genric\obj\Debug\Dictionary Genric.csproj.CoreCompileInputs.cache
+G:\C#program\C-sharp-prog\Part-90\Dictionary Genric\obj\Debug\Dictionary Genric.exe
+G:\C#program\C-sharp-prog\Part-90\Dictionary Genric\obj\Debug\Dictionary Genric.pdb
