@@ -1,0 +1,7 @@
+G:\C#program\C-sharp-prog\Part-88\SortedList Non Genric\bin\Debug\SortedList Non Genric.exe.config
+G:\C#program\C-sharp-prog\Part-88\SortedList Non Genric\bin\Debug\SortedList Non Genric.exe
+G:\C#program\C-sharp-prog\Part-88\SortedList Non Genric\bin\Debug\SortedList Non Genric.pdb
+G:\C#program\C-sharp-prog\Part-88\SortedList Non Genric\obj\Debug\SortedList Non Genric.csproj.AssemblyReference.cache
+G:\C#program\C-sharp-prog\Part-88\SortedList Non Genric\obj\Debug\SortedList Non Genric.csproj.CoreCompileInputs.cache
+G:\C#program\C-sharp-prog\Part-88\SortedList Non Genric\obj\Debug\SortedList Non Genric.exe
+G:\C#program\C-sharp-prog\Part-88\SortedList Non Genric\obj\Debug\SortedList Non Genric.pdb
