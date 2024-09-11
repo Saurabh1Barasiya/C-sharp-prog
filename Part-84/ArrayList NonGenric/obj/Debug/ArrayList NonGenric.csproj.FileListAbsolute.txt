@@ -1,0 +1,7 @@
+G:\C#program\C-sharp-prog\Part-84\ArrayList NonGenric\bin\Debug\ArrayList NonGenric.exe.config
+G:\C#program\C-sharp-prog\Part-84\ArrayList NonGenric\bin\Debug\ArrayList NonGenric.exe
+G:\C#program\C-sharp-prog\Part-84\ArrayList NonGenric\bin\Debug\ArrayList NonGenric.pdb
+G:\C#program\C-sharp-prog\Part-84\ArrayList NonGenric\obj\Debug\ArrayList NonGenric.csproj.AssemblyReference.cache
+G:\C#program\C-sharp-prog\Part-84\ArrayList NonGenric\obj\Debug\ArrayList NonGenric.csproj.CoreCompileInputs.cache
+G:\C#program\C-sharp-prog\Part-84\ArrayList NonGenric\obj\Debug\ArrayList NonGenric.exe
+G:\C#program\C-sharp-prog\Part-84\ArrayList NonGenric\obj\Debug\ArrayList NonGenric.pdb
