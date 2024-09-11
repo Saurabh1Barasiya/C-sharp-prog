@@ -1,0 +1,7 @@
+G:\C#program\C-sharp-prog\Part-92\List of employees\bin\Debug\List of employees.exe.config
+G:\C#program\C-sharp-prog\Part-92\List of employees\bin\Debug\List of employees.exe
+G:\C#program\C-sharp-prog\Part-92\List of employees\bin\Debug\List of employees.pdb
+G:\C#program\C-sharp-prog\Part-92\List of employees\obj\Debug\List of employees.csproj.AssemblyReference.cache
+G:\C#program\C-sharp-prog\Part-92\List of employees\obj\Debug\List of employees.csproj.CoreCompileInputs.cache
+G:\C#program\C-sharp-prog\Part-92\List of employees\obj\Debug\List of employees.exe
+G:\C#program\C-sharp-prog\Part-92\List of employees\obj\Debug\List of employees.pdb
