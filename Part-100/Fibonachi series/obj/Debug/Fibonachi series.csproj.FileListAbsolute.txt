@@ -1,0 +1,7 @@
+G:\C#program\C-sharp-prog\Part-100\Fibonachi series\bin\Debug\Fibonachi series.exe.config
+G:\C#program\C-sharp-prog\Part-100\Fibonachi series\bin\Debug\Fibonachi series.exe
+G:\C#program\C-sharp-prog\Part-100\Fibonachi series\bin\Debug\Fibonachi series.pdb
+G:\C#program\C-sharp-prog\Part-100\Fibonachi series\obj\Debug\Fibonachi series.csproj.AssemblyReference.cache
+G:\C#program\C-sharp-prog\Part-100\Fibonachi series\obj\Debug\Fibonachi series.csproj.CoreCompileInputs.cache
+G:\C#program\C-sharp-prog\Part-100\Fibonachi series\obj\Debug\Fibonachi series.exe
+G:\C#program\C-sharp-prog\Part-100\Fibonachi series\obj\Debug\Fibonachi series.pdb
