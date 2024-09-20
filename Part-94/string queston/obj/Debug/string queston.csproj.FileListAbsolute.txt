@@ -1,0 +1,7 @@
+G:\C#program\C-sharp-prog\Part-94\string queston\bin\Debug\string queston.exe.config
+G:\C#program\C-sharp-prog\Part-94\string queston\bin\Debug\string queston.exe
+G:\C#program\C-sharp-prog\Part-94\string queston\bin\Debug\string queston.pdb
+G:\C#program\C-sharp-prog\Part-94\string queston\obj\Debug\string queston.csproj.AssemblyReference.cache
+G:\C#program\C-sharp-prog\Part-94\string queston\obj\Debug\string queston.csproj.CoreCompileInputs.cache
+G:\C#program\C-sharp-prog\Part-94\string queston\obj\Debug\string queston.exe
+G:\C#program\C-sharp-prog\Part-94\string queston\obj\Debug\string queston.pdb
