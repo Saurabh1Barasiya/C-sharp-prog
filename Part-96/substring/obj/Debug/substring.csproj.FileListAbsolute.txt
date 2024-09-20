@@ -1,0 +1,7 @@
+G:\C#program\C-sharp-prog\Part-96\substring\bin\Debug\substring.exe.config
+G:\C#program\C-sharp-prog\Part-96\substring\bin\Debug\substring.exe
+G:\C#program\C-sharp-prog\Part-96\substring\bin\Debug\substring.pdb
+G:\C#program\C-sharp-prog\Part-96\substring\obj\Debug\substring.csproj.AssemblyReference.cache
+G:\C#program\C-sharp-prog\Part-96\substring\obj\Debug\substring.csproj.CoreCompileInputs.cache
+G:\C#program\C-sharp-prog\Part-96\substring\obj\Debug\substring.exe
+G:\C#program\C-sharp-prog\Part-96\substring\obj\Debug\substring.pdb
