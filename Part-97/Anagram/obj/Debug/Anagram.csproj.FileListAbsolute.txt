@@ -1,0 +1,7 @@
+G:\C#program\C-sharp-prog\Part-97\Anagram\bin\Debug\Anagram.exe.config
+G:\C#program\C-sharp-prog\Part-97\Anagram\bin\Debug\Anagram.exe
+G:\C#program\C-sharp-prog\Part-97\Anagram\bin\Debug\Anagram.pdb
+G:\C#program\C-sharp-prog\Part-97\Anagram\obj\Debug\Anagram.csproj.AssemblyReference.cache
+G:\C#program\C-sharp-prog\Part-97\Anagram\obj\Debug\Anagram.csproj.CoreCompileInputs.cache
+G:\C#program\C-sharp-prog\Part-97\Anagram\obj\Debug\Anagram.exe
+G:\C#program\C-sharp-prog\Part-97\Anagram\obj\Debug\Anagram.pdb
