@@ -1,0 +1,7 @@
+G:\C#program\C-sharp-prog\Part-93\Programs\bin\Debug\Programs.exe.config
+G:\C#program\C-sharp-prog\Part-93\Programs\bin\Debug\Programs.exe
+G:\C#program\C-sharp-prog\Part-93\Programs\bin\Debug\Programs.pdb
+G:\C#program\C-sharp-prog\Part-93\Programs\obj\Debug\Programs.csproj.AssemblyReference.cache
+G:\C#program\C-sharp-prog\Part-93\Programs\obj\Debug\Programs.csproj.CoreCompileInputs.cache
+G:\C#program\C-sharp-prog\Part-93\Programs\obj\Debug\Programs.exe
+G:\C#program\C-sharp-prog\Part-93\Programs\obj\Debug\Programs.pdb
