@@ -35,6 +35,15 @@ namespace get_prime_range
                 }
             }
 
+            //Prime number : 2
+            //Prime number : 3
+            //Prime number : 5
+            //Prime number : 7
+            //Prime number : 11
+            //Prime number : 13
+            //Prime number : 17
+            //Prime number : 19
+
             Console.ReadLine();
         }
     }
