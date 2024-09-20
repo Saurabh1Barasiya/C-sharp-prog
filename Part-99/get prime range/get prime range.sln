@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.11.35222.181
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "get prime range", "get prime range.csproj", "{C3B4092A-7E43-46C3-B38A-F7A0C8308662}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C3B4092A-7E43-46C3-B38A-F7A0C8308662}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C3B4092A-7E43-46C3-B38A-F7A0C8308662}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C3B4092A-7E43-46C3-B38A-F7A0C8308662}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C3B4092A-7E43-46C3-B38A-F7A0C8308662}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {E01817F2-932C-4064-B777-DA05384CFC66}
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,7 @@
+G:\C#program\C-sharp-prog\Part-99\get prime range\bin\Debug\get prime range.exe.config
+G:\C#program\C-sharp-prog\Part-99\get prime range\bin\Debug\get prime range.exe
+G:\C#program\C-sharp-prog\Part-99\get prime range\bin\Debug\get prime range.pdb
+G:\C#program\C-sharp-prog\Part-99\get prime range\obj\Debug\get prime range.csproj.AssemblyReference.cache
+G:\C#program\C-sharp-prog\Part-99\get prime range\obj\Debug\get prime range.csproj.CoreCompileInputs.cache
+G:\C#program\C-sharp-prog\Part-99\get prime range\obj\Debug\get prime range.exe
+G:\C#program\C-sharp-prog\Part-99\get prime range\obj\Debug\get prime range.pdb
