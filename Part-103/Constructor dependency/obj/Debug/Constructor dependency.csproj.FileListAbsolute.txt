@@ -1,0 +1,7 @@
+G:\C#program\C-sharp-prog\Part-103\Constructor dependency\bin\Debug\Constructor dependency.exe.config
+G:\C#program\C-sharp-prog\Part-103\Constructor dependency\bin\Debug\Constructor dependency.exe
+G:\C#program\C-sharp-prog\Part-103\Constructor dependency\bin\Debug\Constructor dependency.pdb
+G:\C#program\C-sharp-prog\Part-103\Constructor dependency\obj\Debug\Constructor dependency.csproj.AssemblyReference.cache
+G:\C#program\C-sharp-prog\Part-103\Constructor dependency\obj\Debug\Constructor dependency.csproj.CoreCompileInputs.cache
+G:\C#program\C-sharp-prog\Part-103\Constructor dependency\obj\Debug\Constructor dependency.exe
+G:\C#program\C-sharp-prog\Part-103\Constructor dependency\obj\Debug\Constructor dependency.pdb
