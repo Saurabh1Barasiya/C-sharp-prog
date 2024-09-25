@@ -1,0 +1,7 @@
+G:\C#program\C-sharp-prog\Part-104\Property injection\bin\Debug\Property injection.exe.config
+G:\C#program\C-sharp-prog\Part-104\Property injection\bin\Debug\Property injection.exe
+G:\C#program\C-sharp-prog\Part-104\Property injection\bin\Debug\Property injection.pdb
+G:\C#program\C-sharp-prog\Part-104\Property injection\obj\Debug\Property injection.csproj.AssemblyReference.cache
+G:\C#program\C-sharp-prog\Part-104\Property injection\obj\Debug\Property injection.csproj.CoreCompileInputs.cache
+G:\C#program\C-sharp-prog\Part-104\Property injection\obj\Debug\Property injection.exe
+G:\C#program\C-sharp-prog\Part-104\Property injection\obj\Debug\Property injection.pdb
