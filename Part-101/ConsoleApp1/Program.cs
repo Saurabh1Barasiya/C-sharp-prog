@@ -30,7 +30,7 @@ namespace ConsoleApp1
 
     public class Cat : Animal
     {
-        // calling base classs  constructor.
+        // calling base classs constructor.
         public Cat(string name) : base(name)
         {
             
