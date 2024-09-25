@@ -1,0 +1,7 @@
+G:\C#program\C-sharp-prog\Part-102\Dependancy injection\bin\Debug\Dependancy injection.exe.config
+G:\C#program\C-sharp-prog\Part-102\Dependancy injection\bin\Debug\Dependancy injection.exe
+G:\C#program\C-sharp-prog\Part-102\Dependancy injection\bin\Debug\Dependancy injection.pdb
+G:\C#program\C-sharp-prog\Part-102\Dependancy injection\obj\Debug\Dependancy injection.csproj.AssemblyReference.cache
+G:\C#program\C-sharp-prog\Part-102\Dependancy injection\obj\Debug\Dependancy injection.csproj.CoreCompileInputs.cache
+G:\C#program\C-sharp-prog\Part-102\Dependancy injection\obj\Debug\Dependancy injection.exe
+G:\C#program\C-sharp-prog\Part-102\Dependancy injection\obj\Debug\Dependancy injection.pdb
